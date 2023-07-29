@@ -1,0 +1,11 @@
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.exe
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.deps.json
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.runtimeconfig.json
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.runtimeconfig.dev.json
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.dll
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\bin\Debug\netcoreapp3.1\Emulator.pdb
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\obj\Debug\netcoreapp3.1\Emulator.AssemblyInfoInputs.cache
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\obj\Debug\netcoreapp3.1\Emulator.AssemblyInfo.cs
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\obj\Debug\netcoreapp3.1\Emulator.dll
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\obj\Debug\netcoreapp3.1\Emulator.pdb
+C:\Users\mason.lee\source\repos\VMAssembler\Emulator\obj\Debug\netcoreapp3.1\Emulator.csprojAssemblyReference.cache

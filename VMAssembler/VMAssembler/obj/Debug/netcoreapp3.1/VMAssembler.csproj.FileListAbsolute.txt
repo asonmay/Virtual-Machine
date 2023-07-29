@@ -1,0 +1,11 @@
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.exe
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.deps.json
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.runtimeconfig.json
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.runtimeconfig.dev.json
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.dll
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\bin\Debug\netcoreapp3.1\VMAssembler.pdb
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\obj\Debug\netcoreapp3.1\VMAssembler.csprojAssemblyReference.cache
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\obj\Debug\netcoreapp3.1\VMAssembler.AssemblyInfoInputs.cache
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\obj\Debug\netcoreapp3.1\VMAssembler.AssemblyInfo.cs
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\obj\Debug\netcoreapp3.1\VMAssembler.dll
+C:\Users\mason.lee\source\repos\VMAssembler\VMAssembler\obj\Debug\netcoreapp3.1\VMAssembler.pdb

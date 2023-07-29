@@ -1,0 +1,77 @@
+﻿SET R0 15
+SET R1 8
+SET R2 2
+SET R7 3
+SET R6 4
+SET R9 5
+SET R3 1
+SET R5 0
+SET R8 1
+loop:
+SET R24 0
+JMP drawPixel
+endOfDraw:
+SET R27 1
+loop2:
+SET R25 1
+EQ R4 R24 R5
+JMPT R4 loop2
+JMP endofloop2
+endofloop2:
+EQ R4 R24 R3
+JMPT R4 case1
+EQ R4 R24 R2
+JMPT R4 case2
+EQ R4 R24 R7
+JMPT R4 case3
+EQ R4 R24 R6
+JMPT R4 case4
+EQ R4 R24 R9
+JMPT R4 case5
+JMP loop
+case1:
+SPX R1 R0 Black
+ADD R1 R1 R3
+JMP loop
+case2:
+SPX R1 R0 Black
+SUB R1 R1 R3
+JMP loop
+case3:
+SPX R1 R0 Black
+SUB R0 R0 R3
+JMP loop
+case4:
+SPX R1 R0 Black
+ADD R0 R0 R3
+JMP loop
+case5:
+EQ R4 R8 R6
+JMPT R4 true
+ADD R8 R8 R3
+JMP loop
+true:
+SET R8 1
+JMP loop
+drawPixel:
+EQ R4 R8 R3
+JMPT R4 Red
+EQ R4 R8 R2
+JMPT R4 Green
+EQ R4 R8 R7
+JMPT R4 Blue
+EQ R4 R8 R6
+JMPT R4 Yellow
+JMP endOfDraw
+Red:
+SPX R1 R0 Red
+JMP endOfDraw
+Green:
+SPX R1 R0 Green
+JMP endOfDraw
+Blue:
+SPX R1 R0 Blue
+JMP endOfDraw
+Yellow:
+SPX R1 R0 Yellow
+JMP endOfDraw
